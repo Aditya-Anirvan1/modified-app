@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066061404729",
+    "project_id": "test-app-990c5",
+    "storage_bucket": "test-app-990c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066061404729:android:306a5e20846d41aaef4be8",
+        "android_client_info": {
+          "package_name": "com.amusoftech.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066061404729-4jkfnbi5l72mb1vhqgcn5gc9pakm1vvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFx3-zA-IVFR2Yf3ORVcKKbfWS9AaWCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066061404729-4jkfnbi5l72mb1vhqgcn5gc9pakm1vvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
